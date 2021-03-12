@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">room_app</string>
+    <string name="add">Add</string>
+    <string name="get">get</string>
+</resources>
